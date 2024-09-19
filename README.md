@@ -1,5 +1,9 @@
-## Hi there 👋
+## About me      
 
+- 🔭 I’m a visual artist/photographer interested in science and technology
+- 🌱 I’m currently learning Full-stack web development
+- ⚡ I'm specializing in data and predictive analytics
+- 👯 I’m looking to collaborate on new projects.
 <!--
 **QAV-T/QAV-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
